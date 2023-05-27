@@ -8,14 +8,14 @@ This project was [created](https://www.digitalocean.com/community/tutorials/how-
 
 Instructions for getting started with this project, are located here. 
 
-Git Clone the repo 
+Git Clone the repo: 
 ```git clone https://github.com/crispinamuriel/typeahead.git```
 
-Cd into the directory
+Cd into the directory:
 ```cd typeahead```
 
-Install dependancies
+Install dependancies:
 ```yarn install```
 
-Run the project in developer mode
+Run the project in developer mode:
 ```yarn dev```
