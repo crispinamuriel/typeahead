@@ -55,6 +55,9 @@ export const Typeahead = () => {
     if (text.length > 2) {
       fetchData(text);
     }
+    if (text.length < 3) {
+      setShowData(false);
+    }
 
   }
 
